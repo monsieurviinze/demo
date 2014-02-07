@@ -1,4 +1,4 @@
 demo
 ====
 
-Répertoire demo
+Répertoire demo pour Dumezil
